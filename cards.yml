@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EasyBank cards related local APIs "
+  contactDetails:
+    name: "nampp - Developer"
+    email: "nam.pp204843@sis.hust.edu.vn"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
