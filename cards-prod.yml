@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Hey, welcome to EasyBank cards related prod APIs"
+  contactDetails:
+    name: "nampp2 - Product Owner"
+    email: "nam.pp204843.2@sis.hust.edu.vn"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721
