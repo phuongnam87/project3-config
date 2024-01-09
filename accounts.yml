@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EasyBank accounts related docker APIs "
   contactDetails:
     name: "nampp - Developer"
-    email: "nam.pp204843@sis.hust.edu.vn"
+    email: "{cipher}e3fecafcea2d7cdbf7ff4254a6bce868cc0ac762eeee9683275b1225630d099a68a0f183e88ceec3e1f96a249bffccbe"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
