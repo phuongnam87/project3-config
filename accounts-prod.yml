@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to EazyBank accounts related webhook APIs"
+  message: "Hey, welcome to EasyBank accounts related webhook APIs"
   contactDetails:
     name: "nampp2 - Product Owner"
     email: "nam.pp204843.2@sis.hust.edu.vn"
