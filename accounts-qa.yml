@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Easy accounts related QA APIs "
+  contactDetails:
+    name: "nampp1 - QA Lead"
+    email: "nam.pp204843.1@sis.hust.edu.vn"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
